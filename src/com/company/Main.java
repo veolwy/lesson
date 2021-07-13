@@ -18,6 +18,7 @@ public class Main {
 
 
 
+
         isRainy = true;
         if (temperature < -10 && yearsOld > 45) {
             System.out.println("Оставайтесь дома");
