@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int temperature = 30;
         int yearsOld = 45;
+
         boolean isRainy = false;
 
         if (temperature > 15 && yearsOld == 45) {
